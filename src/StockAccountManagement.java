@@ -16,6 +16,7 @@ public class StockAccountManagement {
         System.out.println("Enter the share price : ");
         sharePrice.add(sc.nextInt());
     }
+
 //This method stockReport() is used to display the stock report
     public void stockReport() {
         System.out.println("STOCK REPORT");
